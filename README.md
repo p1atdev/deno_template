@@ -4,7 +4,7 @@
 
 - VSCode extension setup for Deno
 - [Velociraptor](https://velociraptor.run/)
-- [Dockerfile](https://hub.docker.com/r/denoland/deno) template
+- [Dockerfile](https://hub.docker.com/r/denoland/deno)
 
 # Usage
 
